@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## 안녕하세요! 
 
-You can use the [editor on GitHub](https://github.com/Ewha-Dev/Ewha-Dev.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+이화여자대학교 비공식 개발자 스터디 `Ewha Dev` 입니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Ewha-Dev가 추구하는 방향
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ewha Dev는 관심분야가 같은 사람들끼리 서로 소통하면서 발전하는 공간을 마련하고 싶습니다.
 
-```markdown
-Syntax highlighted code block
+해당 스터디는 [단국대학교 개발자 스터디(DKU-STUDY)](https://dku-study.github.io/)를 참고하여 허락을 받고 만들었음을 밝힙니다.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+관리자들은 진행하고 있는 모든 스터디에 참여하고 관리하는 것이 아니기 때문에 본 스터디는 본인의 의지가 가장 중요합니다.
 
-1. Numbered
-2. List
+**본 스터디는 모두 Discord와 Github로 진행합니다.**
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 참여 방법
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. 이화인 계정으로 [구글폼]()을 작성합니다.
+    - 신청하고 싶은 스터디 기재
+    - 디스코드 아이디 필요 (서버 초대에 필요)
 
-### Jekyll Themes
+2. 관리자 승인이 이루어지면 작성한 디스코드 아이디로 초대가 갈 것입니다. 들어오신 후에는 `공지` 채널을 필독해주세요!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ewha-Dev/Ewha-Dev.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## 스터디 목록
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 새로 시작하는 스터디, 현재 진행 중인 스터디 상관없이 참여 가능합니다.
+- 다만, 현재 진행 중이고 + 커리큘럼/진도가 정해져 있는 스터디라면 **그 시점까지 했던 것들을 다 깃헙에 올려야 참여가 가능합니다.**
+- 커리큘럼/진도가 정해지지 않은 스터디라면 언제든 중도 참여가 가능합니다. (ex. 알고리즘 스터디)
+
+
+### 알고리즘 스터디
+
+### 데이터 분석 스터디
+
+### 개발자 글쓰기 스터디
+
